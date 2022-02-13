@@ -7,20 +7,38 @@ body {
 	color: #1E212C;
 	text-align: left;
 }
+.wrapper {
+	margin: 0 auto;
+	max-width: 810px;
+	min-height: 100%;
+}
 .title {
 	font-weight: 900;
 	font-size: 46px;
 	line-height: 130%;
+	margin: 5% auto;
+}
+.img-block {
+	margin-bottom: 5%;
 }
 .description {
 	font-weight: 700;
 	font-size: 20px;
 	line-height: 150%;
+	margin: 4% auto;
 }
 .text {
 	font-weight: 400;
 	font-size: 16px;
 	line-height: 160%;
 	color: #424551;
+	margin-bottom: 2%;
+}
+.bracket {
+	padding-left: 7%;
+}
+
+li {
+	line-height: 160%;
 }
 
